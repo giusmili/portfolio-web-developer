@@ -1,5 +1,5 @@
 # 🔥 Template Portfolio 
->Conception et réalisation d'un modèle de Portfolio à développeur
+>Conception et réalisation d'un modèle de Portfolio à développer
 
 ![cover](./asset/icone.png)
 
